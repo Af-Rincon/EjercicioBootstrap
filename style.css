@@ -1,0 +1,49 @@
+
+.title{
+    background: #5b493c;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+.top
+{
+    background: #c39182;
+    color: black;
+    text-align: center;
+   
+}
+
+#impar{
+    background: #c5697a;
+    color: black;
+}
+
+#par{
+    background: #00a2b6;
+    color: black;
+}
+
+#left
+{
+    background:  #f99a3e;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+#content
+{
+    block-size: 170px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div[class="col"]
+{
+    
+    text-align: center;
+    font-weight: bold;
+
+}
